@@ -90,3 +90,41 @@ html {
     height: 300px;
     border-radius: 1em;
 }
+
+#information-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3em;
+    padding: 3em 20em 12em 15em;
+}
+
+#information-header {
+    color: black;
+    font-weight: bolder;
+    font-size: 2.25em; /* 36px */
+}
+
+#information-content {
+    display: flex;
+}
+
+.information-content-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 0 2em 0 2em;
+}
+
+.information-content-image {
+    width: 175px;
+    height: 175px;
+    border: 5px solid #3882F6;
+    border-radius: 1em;
+}
+
+.information-content-text {
+    color: black;
+    max-width: 175px;
+    text-align: center
+}
