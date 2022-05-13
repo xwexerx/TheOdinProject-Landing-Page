@@ -187,3 +187,11 @@ html {
 #callToAction-content button {
     border: 2.5px solid white;
 }
+
+footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
