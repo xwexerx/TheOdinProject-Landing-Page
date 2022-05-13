@@ -156,3 +156,34 @@ html {
     text-align: right;
     margin-top: 1em;
 }
+
+#callToAction-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7em 20em 7em 20em;
+}
+
+#callToAction-content {
+    width: 50vw;
+    height: 10em;
+    background-color: #3882F6;
+    border-radius: 0.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12em;
+}
+
+#callToAction-content-header {
+    font-weight: 600;
+    font-size: 1.25em;
+}
+
+#callToAction-content-text {
+    font-weight: 300;
+}
+
+#callToAction-content button {
+    border: 2.5px solid white;
+}
