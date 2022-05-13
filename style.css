@@ -59,6 +59,8 @@ html {
 #hero-container {
     display: flex;
     gap: 5em;
+    justify-content: center;
+    align-items: center;
 }
 
 #hero-left {
@@ -71,11 +73,13 @@ html {
 #hero-main-text {
     font-size: 3em; /* 48px */
     font-weight: 900;
+    width: 400px;
 }
 
 #hero-secondary-text {
     font-size: 1.125em; /* 18px */
     color: #E5E7EB;
+    width: 450px;
 }
 
 #button {
