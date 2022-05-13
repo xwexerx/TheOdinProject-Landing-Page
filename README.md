@@ -19,6 +19,4 @@ Project was created with:
 You can preview the website [Here](https://xwexerx.github.io/TheOdinProject-Landing-Page/)
 
 ## Gallery
-![Completed Project Images](/img/finishedProject-1.png)
-![](/img/finishedProject-2.png)
-![](/img/finishedProject-3.png)
+![Completed Project Image](/img/finishedProject.png)
