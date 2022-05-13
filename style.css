@@ -96,7 +96,7 @@ html {
     flex-direction: column;
     align-items: center;
     gap: 3em;
-    padding: 3em 20em 12em 15em;
+    padding: 4em 20em 8em 20em;
 }
 
 #information-header {
@@ -127,4 +127,32 @@ html {
     color: black;
     max-width: 175px;
     text-align: center
+}
+
+#quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10em 20em 10em 20em;
+    background-color: #E5E7EB;
+}
+
+#quote-content {
+    max-width: 950px;
+
+}
+
+#quote-text {
+    font-size: 2.25em; /* 36px */
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+#quote-author {
+    font-size: 1.25em; /* 20px */
+    font-weight: 900;
+    color: #1F2937;
+    text-align: right;
+    margin-top: 1em;
 }
